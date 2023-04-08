@@ -129,8 +129,8 @@
 </p>
 
 
-// last profile
-//comment 
+<!-- last profile-->
+<!--comment-->
 <!--
 ## My favorite tools and technologies ⚙️ 
 
