@@ -1,6 +1,16 @@
 ### Hi there 👋
 
-### Hi there 👋
+<br><br>
+<img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
+<h2 align="left" font-weight="bold">About me</h2>  
+<br><br>
+
+- :I’m a developer who has passion for building clean web applications with intuitive functionality. I enjoy the process of turning ideas into reality using creative solutions. I’m always curious about learning new skills, tools, and concepts. In addition to working on various solo full stack projects, I have worked with creative teams, which involves daily stand-ups and communications, source control, and project management.
+- 🚚 CDN : https://cdn.jsdelivr.net/gh/zeeid/nama_repository/lokasi_file [*Without Branch name maybe] || repo@branch/location/
+<br>
+
+
+
 ## My favorite tools and technologies ⚙️ 
 
 > Tools and technologies that I have worked with and am interested in
