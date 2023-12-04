@@ -80,16 +80,16 @@ I’m a developer who has a passion for building clean web applications with int
 
 </p>
 
------
+<!-- -----
 ## Connect with me 
 <!--![alt text](https://img.shields.io/badge/text-text-colour?style=&logo)-->
 
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
-</p>
+</p> -->
 
 <p align="center">
   <br />
